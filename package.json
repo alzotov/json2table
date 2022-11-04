@@ -1,0 +1,23 @@
+{
+  "name": "json2table",
+  "version": "1.0.0",
+  "description": "exercise of json conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "json2table"
+  },
+  "keywords": [
+    "json",
+    "table"
+  ],
+  "author": "AZotov",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^3.17.2",
+    "yargs": "13.2"
+  }
+}
